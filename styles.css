@@ -1,4 +1,6 @@
-h1 {
+h1,
+h2,
+h3 {
     font-family: 'Courier New', Courier, monospace;
     color: black;
 
@@ -13,4 +15,29 @@ h1 {
 
 .div1{
     background-color: antiquewhite;
+}
+
+.lasagnaDiv  p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.boldText{
+    color: burlywood;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+}
+
+Div .recipeImg {
+    display: block;
+    width: 30%;
+    margin: auto;
+    height: auto;
+}
+
+.recipesBody {
+    background-color: azure;
 }
