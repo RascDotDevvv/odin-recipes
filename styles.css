@@ -41,3 +41,9 @@ Div .recipeImg {
 .recipesBody {
     background-color: azure;
 }
+
+Div .pizzaImg {
+    display: block;
+    height: auto;
+    width: 15%;
+}
