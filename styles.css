@@ -4,3 +4,13 @@ h1 {
 
 }
 
+.olRecipes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.div1{
+    background-color: antiquewhite;
+}
