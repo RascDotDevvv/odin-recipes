@@ -3,7 +3,9 @@ h2,
 h3 {
     font-family: 'Courier New', Courier, monospace;
     color: black;
-
+    margin-top: 0;
+    margin-left: 10%;
+    margin-bottom: 5%;
 }
 
 .olRecipes {
@@ -11,15 +13,21 @@ h3 {
     font-size:medium;
     text-align: center;
     list-style-position: inside;
+    margin-top: 0px;
+    
 }
 
-.div1{
+body{
     background-color: antiquewhite;
 }
 
 .lasagnaDiv  p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+
+.lasagnaDiv h3{
+    text-align: center;
 }
 
 .boldText{
@@ -32,10 +40,11 @@ li {
 }
 
 Div .recipeImg {
-    display: block;
+    display: inline-block;
     width: 30%;
     margin: auto;
     height: auto;
+    margin-left: 60%;
 }
 
 .recipesBody {
@@ -51,3 +60,5 @@ Div .pizzaImg {
 .goBack{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
